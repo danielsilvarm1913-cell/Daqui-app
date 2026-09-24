@@ -1,2 +1,2 @@
 # Daqui-app
-Tudo o que voce precisa daqui 
+Tudo o que voce precisa daqui  
